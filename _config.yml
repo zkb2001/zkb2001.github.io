@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+pages: Python
+
 title: My little world
 email: zkb1719982368@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
